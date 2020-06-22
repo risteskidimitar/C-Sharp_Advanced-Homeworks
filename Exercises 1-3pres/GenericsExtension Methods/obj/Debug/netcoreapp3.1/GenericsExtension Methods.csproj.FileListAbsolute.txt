@@ -1,0 +1,12 @@
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\bin\Debug\netcoreapp3.1\GenericsExtension Methods.exe
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\bin\Debug\netcoreapp3.1\GenericsExtension Methods.deps.json
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\bin\Debug\netcoreapp3.1\GenericsExtension Methods.runtimeconfig.json
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\bin\Debug\netcoreapp3.1\GenericsExtension Methods.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\bin\Debug\netcoreapp3.1\GenericsExtension Methods.dll
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\bin\Debug\netcoreapp3.1\GenericsExtension Methods.pdb
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\obj\Debug\netcoreapp3.1\GenericsExtension Methods.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\obj\Debug\netcoreapp3.1\GenericsExtension Methods.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\obj\Debug\netcoreapp3.1\GenericsExtension Methods.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\obj\Debug\netcoreapp3.1\GenericsExtension Methods.dll
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\obj\Debug\netcoreapp3.1\GenericsExtension Methods.pdb
+C:\Users\dimit\source\repos\Exercises\GenericsExtension Methods\obj\Debug\netcoreapp3.1\GenericsExtension Methods.genruntimeconfig.cache
