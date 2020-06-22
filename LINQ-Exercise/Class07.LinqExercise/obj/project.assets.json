@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\LINQ-Exercise\\Class07.LinqExercise\\Class07.LinqExercise\\Class07.LinqExercise.csproj",
+      "projectUniqueName": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\LINQ-Exercise\\Class07.LinqExercise\\Class07.LinqExercise.csproj",
       "projectName": "Class07.LinqExercise",
-      "projectPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\LINQ-Exercise\\Class07.LinqExercise\\Class07.LinqExercise\\Class07.LinqExercise.csproj",
+      "projectPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\LINQ-Exercise\\Class07.LinqExercise\\Class07.LinqExercise.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\LINQ-Exercise\\Class07.LinqExercise\\Class07.LinqExercise\\obj\\",
+      "outputPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\LINQ-Exercise\\Class07.LinqExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

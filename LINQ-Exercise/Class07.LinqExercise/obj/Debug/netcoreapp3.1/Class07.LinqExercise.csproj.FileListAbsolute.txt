@@ -23,3 +23,16 @@ D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Cla
 D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.dll
 D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.pdb
 D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.genruntimeconfig.cache
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.exe
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.deps.json
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.runtimeconfig.json
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.runtimeconfig.dev.json
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.dll
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.pdb
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.csprojAssemblyReference.cache
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.AssemblyInfoInputs.cache
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.AssemblyInfo.cs
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.csproj.CoreCompileInputs.cache
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.dll
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.pdb
+D:\SEDC_19\06_C#_Advanced\Homeworks\C-Sharp_Advanced-Homeworks\LINQ-Exercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.genruntimeconfig.cache
