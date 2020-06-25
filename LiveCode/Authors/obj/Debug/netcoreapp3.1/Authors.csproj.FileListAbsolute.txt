@@ -1,0 +1,12 @@
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\bin\Debug\netcoreapp3.1\Authors.exe
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\bin\Debug\netcoreapp3.1\Authors.deps.json
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\bin\Debug\netcoreapp3.1\Authors.runtimeconfig.json
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\bin\Debug\netcoreapp3.1\Authors.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\bin\Debug\netcoreapp3.1\Authors.dll
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\bin\Debug\netcoreapp3.1\Authors.pdb
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\obj\Debug\netcoreapp3.1\Authors.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\obj\Debug\netcoreapp3.1\Authors.AssemblyInfo.cs
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\obj\Debug\netcoreapp3.1\Authors.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\obj\Debug\netcoreapp3.1\Authors.dll
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\obj\Debug\netcoreapp3.1\Authors.pdb
+C:\Users\dimit\Desktop\skwd8-06-csharpadv-master\g4\07-Lambdas\LiveCode\Authors\obj\Debug\netcoreapp3.1\Authors.genruntimeconfig.cache
