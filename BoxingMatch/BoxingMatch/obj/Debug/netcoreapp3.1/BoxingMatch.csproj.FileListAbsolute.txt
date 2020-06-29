@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\bin\Debug\netcoreapp3.1\BoxingMatch.exe
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\bin\Debug\netcoreapp3.1\BoxingMatch.deps.json
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\bin\Debug\netcoreapp3.1\BoxingMatch.runtimeconfig.json
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\bin\Debug\netcoreapp3.1\BoxingMatch.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\bin\Debug\netcoreapp3.1\BoxingMatch.dll
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\bin\Debug\netcoreapp3.1\BoxingMatch.pdb
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\obj\Debug\netcoreapp3.1\BoxingMatch.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\obj\Debug\netcoreapp3.1\BoxingMatch.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\obj\Debug\netcoreapp3.1\BoxingMatch.AssemblyInfo.cs
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\obj\Debug\netcoreapp3.1\BoxingMatch.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\obj\Debug\netcoreapp3.1\BoxingMatch.dll
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\obj\Debug\netcoreapp3.1\BoxingMatch.pdb
+C:\Users\dimit\source\repos\BoxingMatch\BoxingMatch\obj\Debug\netcoreapp3.1\BoxingMatch.genruntimeconfig.cache
