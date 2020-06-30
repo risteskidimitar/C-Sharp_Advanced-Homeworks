@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\bin\Debug\netcoreapp3.1\TablicaMnozenje.exe
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\bin\Debug\netcoreapp3.1\TablicaMnozenje.deps.json
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\bin\Debug\netcoreapp3.1\TablicaMnozenje.runtimeconfig.json
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\bin\Debug\netcoreapp3.1\TablicaMnozenje.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\bin\Debug\netcoreapp3.1\TablicaMnozenje.dll
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\bin\Debug\netcoreapp3.1\TablicaMnozenje.pdb
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\obj\Debug\netcoreapp3.1\TablicaMnozenje.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\obj\Debug\netcoreapp3.1\TablicaMnozenje.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\obj\Debug\netcoreapp3.1\TablicaMnozenje.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\obj\Debug\netcoreapp3.1\TablicaMnozenje.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\obj\Debug\netcoreapp3.1\TablicaMnozenje.dll
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\obj\Debug\netcoreapp3.1\TablicaMnozenje.pdb
+C:\Users\dimit\source\repos\TablicaMnozenje\TablicaMnozenje\obj\Debug\netcoreapp3.1\TablicaMnozenje.genruntimeconfig.cache
