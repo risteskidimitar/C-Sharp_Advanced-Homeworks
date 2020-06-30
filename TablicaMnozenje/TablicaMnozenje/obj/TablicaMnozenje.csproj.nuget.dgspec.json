@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\source\\repos\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj": {}
+    "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\source\\repos\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj": {
+    "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj",
+        "projectUniqueName": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj",
         "projectName": "TablicaMnozenje",
-        "projectPath": "C:\\Users\\dimit\\source\\repos\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj",
+        "projectPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\TablicaMnozenje\\TablicaMnozenje\\TablicaMnozenje.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\source\\repos\\TablicaMnozenje\\TablicaMnozenje\\obj\\",
+        "outputPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\TablicaMnozenje\\TablicaMnozenje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

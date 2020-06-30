@@ -19,16 +19,14 @@ namespace TablicaMnozenje
                 {
                     Result = $"{i} * {j} = {i * j}";
                     List.Add(Result);
-                    File.WriteAllLines(MyFile, List);
                     Console.WriteLine(Result);
                 }
                 string line = $"_______________";
                 List.Add(line);
-                File.WriteAllLines(MyFile, List);
-                Console.WriteLine(line);
-                
+                Console.WriteLine(line);               
             }
 
+            File.WriteAllLines(MyFile, List);
 
             Console.ReadLine();
         }
