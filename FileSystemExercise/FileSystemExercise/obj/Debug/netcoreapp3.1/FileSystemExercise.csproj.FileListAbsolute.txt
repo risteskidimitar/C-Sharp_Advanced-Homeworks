@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\bin\Debug\netcoreapp3.1\FileSystemExercise.exe
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\bin\Debug\netcoreapp3.1\FileSystemExercise.deps.json
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\bin\Debug\netcoreapp3.1\FileSystemExercise.runtimeconfig.json
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\bin\Debug\netcoreapp3.1\FileSystemExercise.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\bin\Debug\netcoreapp3.1\FileSystemExercise.dll
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\bin\Debug\netcoreapp3.1\FileSystemExercise.pdb
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\obj\Debug\netcoreapp3.1\FileSystemExercise.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\obj\Debug\netcoreapp3.1\FileSystemExercise.AssemblyInfo.cs
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\obj\Debug\netcoreapp3.1\FileSystemExercise.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\obj\Debug\netcoreapp3.1\FileSystemExercise.dll
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\obj\Debug\netcoreapp3.1\FileSystemExercise.pdb
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\obj\Debug\netcoreapp3.1\FileSystemExercise.genruntimeconfig.cache
+C:\Users\dimit\source\repos\FileSystemExercise\FileSystemExercise\obj\Debug\netcoreapp3.1\FileSystemExercise.csprojAssemblyReference.cache
