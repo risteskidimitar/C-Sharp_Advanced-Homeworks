@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\bin\Debug\netcoreapp3.1\Exercise.exe
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\bin\Debug\netcoreapp3.1\Exercise.deps.json
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\bin\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\bin\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CopyComplete
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\dimit\source\repos\SerializingDeserializing\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache

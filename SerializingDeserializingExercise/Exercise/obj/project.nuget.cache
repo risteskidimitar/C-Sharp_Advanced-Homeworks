@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmlf3G00EpbRNuSEFDlAtHQ8zUzQ02kOLkpTHYfecbzyL1LSSeVLtm2hssYM634eeEV9+LF7g30A88v1TVU4XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimit\\source\\repos\\SerializingDeserializing\\Exercise\\Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
