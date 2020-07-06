@@ -7,12 +7,12 @@ namespace BoxingMatch
     public class Writer
     {
         public LoggerService Logger = new LoggerService();
-        internal void WritingStats(Boxer first, Boxer second)
+        public void WritingStats(Boxer first, Boxer second)
         {
             if (first.PunchingBoxer == false)
             {
                 Logger.sw.WriteLine($"{first.Name} with {first.Hitpoints} hitpoints thrown a {first.Punch} punch");
-             
+
 
                 if (second.ChangeHitpoits)
                 {
@@ -37,8 +37,23 @@ namespace BoxingMatch
                 }
             }
         }
+        public void WritingAfter50(Boxer first, Boxer second)
+        {
+            if (first.Hitpoints > second.Hitpoints)
+            {
+                Logger.sw.WriteLine($"Match is finished, the Winer is {first.Name} with {first.Hitpoints} hitpoints versus {second.Name} - {second.Hitpoints} hitpoints");
+            }
+            else if (second.Hitpoints > first.Hitpoints)
+            {
+                Logger.sw.WriteLine($"Match is finished, the Winer is {second.Name} with {second.Hitpoints} hitpoints versus {first.Name} - {first.Hitpoints} hitpoints");
+            }
+            else
+            {
+                Logger.sw.WriteLine($"Match is finished, without winer, {first.Name} with {first.Hitpoints} hitpoints versus {second.Name} with {second.Hitpoints} hitpoints");
+            }
+        }
 
-        internal void Knockout(Boxer boxer)
+        public void Knockout(Boxer boxer)
         {
             for (int i = 10; i > 0; i--)
             {

@@ -36,6 +36,23 @@ namespace BoxingMatch
                     Console.WriteLine($"The punch is MISS, great defence {first.Name}");
                 }
             }
+            Console.ResetColor();
+        }
+
+        public void After50WithoutKnockout(Boxer first, Boxer second)
+        {
+            if (first.Hitpoints > second.Hitpoints)
+            {
+                Console.WriteLine($"Match is finished, the Winer is {first.Name} with {first.Hitpoints} hitpoints versus {second.Name} - {second.Hitpoints} hitpoints");
+            }
+            else if (second.Hitpoints > first.Hitpoints)
+            {
+                Console.WriteLine($"Match is finished, the Winer is {second.Name} with {second.Hitpoints} hitpoints versus {first.Name} - {first.Hitpoints} hitpoints");
+            }
+            else
+            {
+                Console.WriteLine($"Match is finished, without winer, {first.Name} with {first.Hitpoints} hitpoints versus {second.Name} with {second.Hitpoints} hitpoints");
+            }
         }
 
         public void Knockout(Boxer boxer)

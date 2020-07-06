@@ -15,7 +15,6 @@ namespace BoxingMatch
         public bool ChangeHitpoits { get; set; }
 
         public TypeOfPunches Punch { get; set; }
-        public int NumbPunches { get; set; }// zamena za toa sto ne raboti vo boxing match
 
         public bool PunchingBoxer;
 

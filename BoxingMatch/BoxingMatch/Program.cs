@@ -44,6 +44,8 @@ namespace BoxingMatch
             match01.MatchStats += writer.WritingStats;
             match01.Knockout += display.Knockout;
             match01.Knockout += writer.Knockout;
+            match01.After50 += display.After50WithoutKnockout;
+            match01.After50 += writer.WritingAfter50;
             AndyRuizJr.BoxingEvent += TysonFury.Defence;
             TysonFury.BoxingEvent += AndyRuizJr.Defence;
             match01.Boxing(TysonFury, AndyRuizJr);
