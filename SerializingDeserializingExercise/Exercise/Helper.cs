@@ -79,16 +79,16 @@ namespace Exercise
             List<string> result = new List<string>();
             using (StreamReader sr = new StreamReader(path))
             {
-                //Kako da izvadam broj na redovi vo json file za da napravam for za sekoj red
-                // ovie mi e potrebno za da napravam lista od stringovi za podocna da napravam 
-                //lista od Dogs
-                //for (int i = 0; i < length; i++)
-                //{
-                //    result.Add(sr.ReadLine());
-                //}
-                result.Add(sr.ReadLine());
-                result.Add(sr.ReadLine());
-                result.Add(sr.ReadLine());
+                string line = string.Empty;
+                while (line != null)
+                {
+                    line = sr.ReadLine();
+                    if(line == null)
+                    {
+                        break;
+                    }
+                    result.Add(line);
+                }
             }
             return result;
         }

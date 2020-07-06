@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\SerializingDeserializing\\Exercise\\Exercise.csproj",
+      "projectUniqueName": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\SerializingDeserializingExercise\\Exercise\\Exercise.csproj",
       "projectName": "Exercise",
-      "projectPath": "C:\\Users\\dimit\\source\\repos\\SerializingDeserializing\\Exercise\\Exercise.csproj",
+      "projectPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\SerializingDeserializingExercise\\Exercise\\Exercise.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\source\\repos\\SerializingDeserializing\\Exercise\\obj\\",
+      "outputPath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\SerializingDeserializingExercise\\Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

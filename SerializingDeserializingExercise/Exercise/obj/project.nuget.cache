@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bmlf3G00EpbRNuSEFDlAtHQ8zUzQ02kOLkpTHYfecbzyL1LSSeVLtm2hssYM634eeEV9+LF7g30A88v1TVU4XQ==",
+  "dgSpecHash": "UltpdT/Td7mhmBA1KRpzDDl668ZE/s6Hro4CWhfQIzwyGmjYS8OfWGZAKeesY/UmMAg5K6NDYkGbqYE5I0b8wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\source\\repos\\SerializingDeserializing\\Exercise\\Exercise.csproj",
+  "projectFilePath": "D:\\SEDC_19\\06_C#_Advanced\\Homeworks\\C-Sharp_Advanced-Homeworks\\SerializingDeserializingExercise\\Exercise\\Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimit\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
